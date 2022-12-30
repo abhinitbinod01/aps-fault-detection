@@ -1,0 +1,6 @@
+notebook
+sensor.egg-info
+logs
+artifact
+.env
+.pyc
